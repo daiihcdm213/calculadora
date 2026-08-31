@@ -1,2 +1,2 @@
 # calculadora
-Projeto de uma calculadora desenvolvida em Python para praticar conceitos de programação.
+Projeto de uma calculadora desenvolvida para praticar conceitos de programação em Python.
